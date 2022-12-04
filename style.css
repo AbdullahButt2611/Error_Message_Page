@@ -127,7 +127,7 @@ img{
   }
   
   .main {
-    /* overflow: hidden; For the animations ScrollReveal */
+    overflow: hidden; /*For the animations ScrollReveal */
   }
   
   /*=============== HEADER & NAV ===============*/
@@ -137,7 +137,7 @@ img{
  .home {
     background-color: var(--first-color);
     padding: 9rem 0 2rem;
-    height: fit-content;
+    height: 100vh;
     display: grid;
     color: var(--text-color);
   }
